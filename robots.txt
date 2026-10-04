@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koniture02.co.kr/sitemap.xml

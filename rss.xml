@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>코니처 – 리바트 이전설치 전문</title>
+    <link>https://koniture02.co.kr/</link>
+    <description>리바트 키즈 벙커침대·이층침대 분리·해체·재설치 전문 코니처의 소식과 시공 사례</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 04 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://koniture02.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>리바트 이전설치 – 리바트 키즈 벙커침대 분리·해체·재설치</title>
+      <link>https://koniture02.co.kr/</link>
+      <guid isPermaLink="true">https://koniture02.co.kr/</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>리바트 키즈 벙커침대·이층침대 이전설치를 코니처가 진행합니다. 이사, 중고 구입, 방 이동까지 서울·경기·수도권 전 지역 방문.</description>
+    </item>
+    <item>
+      <title>리바트 키즈 침대 이전설치 시공 사례</title>
+      <link>https://koniture02.co.kr/#cases</link>
+      <guid isPermaLink="true">https://koniture02.co.kr/#cases</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>너랑나랑, 달콩크림빵, 숲속의 오두막, 집속의 작은집, 뛰뛰빵빵 레이싱 등 실제 분리·해체·재설치 현장.</description>
+    </item>
+    <item>
+      <title>리바트 이전설치 출장 지역 안내 (서울·경기·수도권)</title>
+      <link>https://koniture02.co.kr/#area</link>
+      <guid isPermaLink="true">https://koniture02.co.kr/#area</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>서울, 경기 및 수도권 전체 방문 상담. 출발지와 도착지가 달라도 함께 진행합니다.</description>
+    </item>
+    <item>
+      <title>리바트 이전설치 자주 묻는 질문</title>
+      <link>https://koniture02.co.kr/#faq</link>
+      <guid isPermaLink="true">https://koniture02.co.kr/#faq</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>중고 구매 침대, 책상·수납장 포함 이전, 하우스형 침대, 비용 산정 방식 등 자주 묻는 질문.</description>
+    </item>
+  </channel>
+</rss>
